@@ -1,6 +1,8 @@
-Acerca deAcerca de
-Electronics engineer with more than 10 years of experience in software, hardware development and seismic acquisition industry, .
-Currently I'm designing and developing IOT solutions, applying all the new software tools and hardware solutions available. The adquisition, storage and analysis of environmental variables, ecological footprint, etc. They will allow us to significantly improve the environment, quality and life condition.
+
+<H1>Acerca de mi.</H1> 
+
+  Electronics engineer with more than 10 years of experience in software, hardware development and seismic acquisition industry.
+  Currently I'm designing and developing IOT solutions, applying all the new software tools and hardware solutions available. The adquisition, storage and analysis of environmental variables, ecological footprint, etc. They will allow us to significantly improve the environment, quality and life condition.
 
 <!--
 **fjl2020/fjl2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
